@@ -6,6 +6,7 @@ public class Main {
 
         inmobiliaria.addListaInmueble(inmuable);
         inmuable.setCalle("La paz");
+
         inmobiliaria.delListaInmueble(inmuable);
         System.out.println("fin");
 
